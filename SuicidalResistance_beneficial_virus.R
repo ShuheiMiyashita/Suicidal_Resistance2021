@@ -1,5 +1,5 @@
-Text S5
-An R script for simulation of suicidal population resistance of SHR(+) plants with a beneficial virus
+#Text S5
+#An R script for simulation of suicidal population resistance of SHR(+) plants with a beneficial virus
 
 ## CAUTION: Many files will be produced automatically. Before you start simulation, please (make and) select a directory to which the files will be saved. To complete the simulation below, several hours may be required, if you use a standard laptop. A modified R script for testing parameters manually without producing files (but showing Fig. 6-like results) can be found as Text S3.
 
